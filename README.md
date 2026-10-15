@@ -1,6 +1,4 @@
-# Discord Bot that edits videos and photos. [super old code lol]
-
-check out https://github.com/DevelopCMD/videoeditbot-portable it seems to be pretty cool from the preview!
+# Discord Bot that edits videos and photos. [super NEW code lol]
 
 Requirements:
  - python 3.10+
