@@ -1,23 +1,23 @@
 {
     "working_directory": "./active",
-    "discord_token": "TOKEN GOES HERE",
-    "discord_tagline": "good evening",
+    "discord_token": "MTU2MDM2Mzg5MzY2NTE2OTQyMA.GNIY-T.zBftBX8pirsUM-BNUIf1zvmMc7JePP-DgN0p9M",
+    "discord_tagline": "gift for blueminunwhite",
     "message_search_count": 15,
-    "command_chain_limit": 3,
-    "max_concat_count": 3,
+    "command_chain_limit": 900,
+    "max_concat_count": 700,
     
     "unspecified_default_timeout": 5,
     "default_guild_timeouts": {
-        "destroy": 10,
-        "concat": 12,
-        "download": 15,
+        "destroy": 0,
+        "concat": 0,
+        "download": 0,
         "help": 1
     },
     "default_user_timeouts": {
-        "destroy": 15,
-        "concat": 20,
-        "download": 30,
-        "help": 3
+        "destroy": 0,
+        "concat": 0,
+        "download": 0,
+        "help": 0
     },
     "custom_guild_timeouts": {
         // "some guild id here": {
@@ -46,14 +46,9 @@
         }
     },
     "response_messages": [
-        "these",
-        "are",
-        "random",
-        "messages",
-        "the",
-        "bot",
-        "will",
-        "say"
+        "done! ✅️",
+        "failed... 😭",
+        "wdym? 😑"
     ],
-    "meta_prefixes": ["veb", "videoeditbot", "destroy"]
+    "meta_prefixes": ["bmweb", "blueminunwhite", "destroy"]
 }
